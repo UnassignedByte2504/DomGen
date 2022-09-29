@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.pop {
+  background-image: src=
+    "https://cryodragon.ca/wp-content/uploads/2018/03/CryoDragon-Internet-vs-World-Wide-Web.jpg";
+  background-repeat: ;
+}
+
+.bg-primary {
+  --bs-bg-opacity: 0.5;
+  background-color: rgba(
+    var(--bs-success-rgb),
+    var(--bs-bg-opacity)
+  ) !important;
+}
+.domaingen {
+  height: 25%;
+  width: 60%;
+}
